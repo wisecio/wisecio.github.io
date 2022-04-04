@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "particles.js": "^2.0.0"
+    "@ignatiusmb/scramble": "^3.0.1",
+    "glitched-writer": "^2.0.29",
+    "particles.js": "^2.0.0",
+    "scrambling-text": "^1.2.0"
   }
 }
