@@ -1,0 +1,40 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto+Mono:100';
+
+
+
+
+html {
+    overflow: hidden;
+   
+}
+
+html {
+    margin: 0;
+    padding: 0}
+
+
+
+html, body {
+  font-family: 'Roboto Mono', monospace;
+  background: #000000;
+  height: 100%;
+}
+  
+.container {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  position: absolute;
+left: 50%;
+top: 40%;
+transform: translate(-50%, -50%);
+
+}
+.text {
+  font-weight: 100;
+  font-size: 28px;
+  color: #FAFAFA;
+}
+.gw-glitched {
+  color: #757575;
+}
