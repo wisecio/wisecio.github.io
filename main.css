@@ -16,8 +16,9 @@ html {
 
 html, body {
   font-family: 'Roboto Mono', monospace;
-  background: #000000;
+  background: #ffffff;
   height: 100%;
+  margin: 0px;
 }
   
 .container {
