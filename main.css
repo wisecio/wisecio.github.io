@@ -29,13 +29,26 @@ html, body {
 left: 50%;
 top: 40%;
 transform: translate(-50%, -50%);
+margin: 0 auto;
+text-align: center;
+
 
 }
 .text {
   font-weight: 100;
   font-size: 28px;
   color: #FAFAFA;
+ 
 }
+
 .gw-glitched {
   color: #757575;
 }
+
+
+
+      
+         
+      
+
+  
